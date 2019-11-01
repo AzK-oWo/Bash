@@ -86,6 +86,7 @@ char *get_word(char *end){
 				*end = '\0';
 				return NULL;
 			}
+			*end = c;
 			flg = 0;
 			break;
 		}
