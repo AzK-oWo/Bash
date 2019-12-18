@@ -1,6 +1,6 @@
 # easy_terminal
 something like a terminal bash, but stripped down and useless to anyone ;D.
-it include:
+--it include:
 -command execution.
 -pipes.
 -application with files.
