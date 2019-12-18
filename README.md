@@ -10,6 +10,4 @@ something like a terminal bash, but stripped down and useless to anyone ;D
 
 ## How to compile code:
 ___
-Makefile easy_terminal_v(number)
-___
-for number = 1 to n
+Makefile easy_terminal_v9
