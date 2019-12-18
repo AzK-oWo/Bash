@@ -11,5 +11,5 @@ something like a terminal bash, but stripped down and useless to anyone ;D
 ## How to compile code:
 ...
 Makefile easy_terminal_v(number)
-for number = 1 to n
 ...
+for number = 1 to n
