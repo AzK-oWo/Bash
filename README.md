@@ -9,5 +9,5 @@ something like a terminal bash, but stripped down and useless to anyone ;D
 * signals: ctrl^c
 
 ## How to compile code:
- Makefile easy_terminal_v(number)
- for number = 1 to n
+... Makefile easy_terminal_v(number)
+... for number = 1 to n
